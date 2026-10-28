@@ -3,6 +3,9 @@
   <p>Template moderno e otimizado para projetos React Native</p>
 </div>
 
+> [!WARNING]
+> **Discontinued.** This template is no longer maintained and the repository is archived (read-only). For a newer React Native template with Expo, Tamagui, Expo Router and Zustand, see [allay-template](https://github.com/raniellimontagna/allay-template).
+
 ## 📋 Sumário
 
 - [Sobre o Projeto](#-sobre-o-projeto)
